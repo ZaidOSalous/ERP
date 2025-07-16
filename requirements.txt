@@ -1,0 +1,78 @@
+# Django Framework
+Django==5.2.4
+djangorestframework==3.15.2
+django-cors-headers==4.3.1
+
+# Authentication & Security
+djangorestframework-simplejwt==5.3.0
+django-filter==24.2
+
+# Database
+psycopg2-binary==2.9.9
+
+# File & Image Handling
+Pillow==10.4.0
+
+# API Documentation
+coreapi==2.3.3
+pyyaml==6.0.2
+
+# HTTP Requests (for WhatsApp integration)
+requests==2.32.3
+
+# Environment Variables
+python-decouple==3.8
+
+# Date & Time Utilities
+python-dateutil==2.9.0
+
+# JSON Web Tokens
+PyJWT==2.8.0
+
+# Cryptography (for data encryption)
+cryptography==42.0.8
+
+# Task Queue (for background tasks)
+celery==5.3.4
+redis==5.0.7
+
+# Development & Testing
+pytest==8.2.2
+pytest-django==4.8.0
+factory-boy==3.3.0
+
+# Production Server
+gunicorn==22.0.0
+whitenoise==6.7.0
+
+# Monitoring & Logging
+sentry-sdk==2.8.0
+
+# Excel Export
+openpyxl==3.1.5
+xlsxwriter==3.2.0
+
+# PDF Generation
+reportlab==4.2.2
+weasyprint==62.3
+
+# Email
+django-anymail==10.3
+
+# Cache
+django-redis==5.4.0
+
+# Admin Interface Enhancements
+django-admin-interface==0.28.6
+django-colorfield==0.11.0
+
+# API Rate Limiting
+django-ratelimit==4.1.0
+
+# Timezone Support
+pytz==2024.1
+
+# Utilities
+python-slugify==8.0.4
+django-extensions==3.2.3
+
